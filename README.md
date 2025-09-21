@@ -1,7 +1,5 @@
 # Immutable Vision - Crypto Fund Landing Page
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/immutable-visions-projects/v0-landing-page-with-funds)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ENQdfk14q7H)
 [![Powered by Velvet](https://img.shields.io/badge/Powered%20by-Velvet-blue?style=for-the-badge)](https://velvet.capital)
 
 ## 🚀 Overview
@@ -23,7 +21,6 @@ Immutable Vision is a cutting-edge cryptocurrency fund management platform offer
 - **Styling**: Tailwind CSS v4
 - **UI Components**: shadcn/ui
 - **Icons**: Lucide React
-- **Deployment**: Vercel
 - **Fund Platform**: Powered by Velvet
 
 ## 🎨 Design System
@@ -103,16 +100,15 @@ npm start
 └── README.md
 \`\`\`
 
-## 🔧 Development
+## 🎯 Features
 
-This project is built and maintained using [v0.app](https://v0.app), which provides:
+This landing page provides a comprehensive overview of Immutable Vision's cryptocurrency fund offerings, featuring:
 
-- **AI-Powered Development**: Rapid prototyping and iteration
-- **Component Library**: Pre-built UI components
-- **Responsive Design**: Mobile-first approach
-- **Modern Stack**: Latest web technologies
-
-Continue building at: **[v0.app/chat/projects/ENQdfk14q7H](https://v0.app/chat/projects/ENQdfk14q7H)**
+- **Professional Design**: Clean, modern interface optimized for crypto investors
+- **Fund Information**: Detailed descriptions of investment strategies and performance
+- **Responsive Layout**: Seamless experience across desktop, tablet, and mobile devices
+- **Performance Metrics**: Clear presentation of fund achievements and statistics
+- **Contact Integration**: Easy access to social media and community channels
 
 ## 📄 License
 
@@ -124,4 +120,4 @@ This project is currently private. For inquiries, please contact the development
 
 ---
 
-*Built with ❤️ using v0.app and powered by Velvet Platform*
+*© 2025 Immutable Vision. All rights reserved.*
