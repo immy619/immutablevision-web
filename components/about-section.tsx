@@ -30,7 +30,7 @@ export function AboutSection() {
               <h3 className="text-xl font-semibold text-foreground mb-2">Led by Expert Strategist</h3>
               <p className="text-muted-foreground">
                 DeFimmy, founder of Immutable Vision, brings decades of cryptocurrency expertise with a proven onchain track
-                record as a successful DeFi fund manager.
+                record as a successful DeFi strategist.
               </p>
             </div>
 
