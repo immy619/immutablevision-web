@@ -34,7 +34,7 @@ export function HeroSection() {
           </div>
 
           <h1 className="text-3xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold mb-6 sm:mb-8 text-balance animate-fade-in-up delay-200">
-            We Build Funds that <span className="gradient-text">Outperform</span>{" "}
+            I Build Funds that <span className="gradient-text">Outperform</span>{" "}
             <span className="text-2xl sm:text-4xl lg:text-5xl xl:text-6xl">🔥</span>
           </h1>
 
