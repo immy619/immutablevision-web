@@ -1,7 +1,5 @@
 # Immutable Vision - Index Funds but for Crypto
 
-[![Powered by Velvet](https://img.shields.io/badge/Powered%20by-Velvet-blue?style=for-the-badge)](https://velvet.capital)
-
 ## 🚀 Overview
 
 Immutable Vision is a cutting-edge cryptocurrency fund management platform offering institutional-grade investment solutions. Our landing page showcases two premier fund offerings with advanced DeFi strategies and expert analysis.
