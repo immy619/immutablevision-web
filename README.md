@@ -1,24 +1,30 @@
-# Immutable Vision - Index Funds but for Crypto
+# Landing page with funds
 
-## 🚀 Overview
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-Immutable Vision is a cutting-edge cryptocurrency fund management platform offering institutional-grade investment solutions. Our landing page showcases two premier fund offerings with advanced DeFi strategies and expert analysis.
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/immutable-visions-projects/v0-landing-page-with-funds)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ENQdfk14q7H)
 
-## 🔗 Social Links
+## Overview
 
-- **X (Twitter)**: [@immutablevision](https://twitter.com/immutablevision)
-- **Blog**: [Medium](https://medium.com/@immutablevision)
-- **Instagram**: [@immutable_vision](https://instagram.com/immutable_vision)
-- **Telegram**: [Join Community](https://t.me/+STBdRmOzUdJkYjlk)
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-## 📄 License
+## Deployment
 
-This project is proprietary and confidential. All rights reserved by Immutable Vision.
+Your project is live at:
 
-## 🤝 Contributing
+**[https://vercel.com/immutable-visions-projects/v0-landing-page-with-funds](https://vercel.com/immutable-visions-projects/v0-landing-page-with-funds)**
 
-This project is currently private. For inquiries, please contact the development team.
+## Build your app
 
----
+Continue building your app on:
 
-*© 2025 Immutable Vision. All rights reserved.*
+**[https://v0.app/chat/projects/ENQdfk14q7H](https://v0.app/chat/projects/ENQdfk14q7H)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository

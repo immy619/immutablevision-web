@@ -14,7 +14,7 @@ const funds = [
   },
   {
     title: "Prime Fund II",
-    description: "Advanced strategies for experienced investors seeking higher returns hedged with blue-chips.",
+    description: "Advanced strategies for experienced investors seeking higher returns with calculated risks.",
     link: "https://beta.velvet.capital/#/fund/manage/0x05fc3317a28f0228f61891280ea7a7e962fde001",
     features: ["Higher Returns", "Low Risk Profile", "Advanced Strategies", "Expert Analysis"],
     icon: TrendingUp,

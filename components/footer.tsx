@@ -37,7 +37,7 @@ export function Footer() {
           </div>
 
           <div className="pt-8 border-t border-border">
-            <p className="text-sm text-muted-foreground">© 2025 Immutable Vision. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© 2024 Immutable Vision. All rights reserved.</p>
           </div>
         </div>
       </div>
