@@ -15,7 +15,7 @@ export function AboutSection() {
               <p className="text-lg sm:text-xl text-muted-foreground leading-relaxed text-center">
                 Immutable Vision brings the simplicity and diversification of traditional index funds to the crypto
                 world. Our funds operate on Velvet's cutting-edge platform, backed by industry leaders, ensuring secure,
-                on-chain asset management. Next year, we plan to launch an app providing seamless access to our funds.
+                on-chain asset management.
               </p>
             </CardContent>
           </Card>
