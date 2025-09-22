@@ -5,6 +5,7 @@ import { GeistMono } from "geist/font/mono"
 import { Analytics } from "@vercel/analytics/next"
 import { ThemeProvider } from "@/components/theme-provider"
 import { Suspense } from "react"
+import CookieBanner from "@/components/cookie-banner" // <CHANGE> Added cookie banner import
 import "./globals.css"
 
 export const metadata: Metadata = {
@@ -27,6 +28,7 @@ export default function RootLayout({
             {children}
           </ThemeProvider>
           <Analytics />
+          <CookieBanner /> {/* <CHANGE> Added cookie banner component */}
         </Suspense>
       </body>
     </html>
